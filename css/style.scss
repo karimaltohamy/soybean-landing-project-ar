@@ -110,6 +110,10 @@ main {
 }
 
 @media (max-width: 768px) {
+  main {
+    background-position: left;
+  }
+
   .btn_fill,
   .btn_outline {
     padding: 4px 15px;
