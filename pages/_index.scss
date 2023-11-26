@@ -2,7 +2,7 @@
 
 // start hero_section
 .hero_section {
-  height: 75vh;
+  height: calc(100vh - 54px);
   position: relative;
   z-index: 9999;
   // color: white;
